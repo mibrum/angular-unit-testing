@@ -1,7 +1,12 @@
-# Pluralsight's Unit Testing in Angular Course
-This course is up to date.
+# Unit Testing in Angular 
 
-To get started, clone the repo or download it
+In this repo I wanted to better understand Angular Unit Testing. The provided code includes:
 
+Testing Angular projects, including testing services, component templates, and dealing with asynchronous code.
+This repository is related to the Pluralsight Unit Testing Angular Course.
+
+## Install
 npm install
+
+## Run tests
 npm test
